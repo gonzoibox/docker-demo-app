@@ -2,6 +2,7 @@
   "name": "developing-with-docker",
   "version": "1.0.0",
   "description": "A simple project",
+  "homepage": "https://github.com/gonzoibox/docker-demo-app",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
